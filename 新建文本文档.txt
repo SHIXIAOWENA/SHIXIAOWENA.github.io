@@ -1,4 +1,0 @@
-<div style="background: DarkSalmon">
-<h1>1421172238</h1>
-<p>Œ“</p>
-</div>
